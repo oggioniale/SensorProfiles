@@ -11,6 +11,7 @@
             <meta name="viewport" content="width=device-width, initial-scale=1"/>
             <meta name="description" content="Profiles list of different sensor system"/>
             <meta name="author" content="Alessandro Oggioni"/>
+            <meta name="author" content="Paolo Tagliolato"/>
             <meta name="author" content="Fabio Pavesi"/>
             <link rel="icon" href="http://skmi.irea.cnr.it/static/geosk/img/favicon.ico"/>
             <title>Sensor Profile Selection</title>
